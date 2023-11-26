@@ -1,0 +1,7 @@
+id1 Bashirov Rinat 8156868545 456-17-89
+id2 Starinin Andrey 84561578545 784-65-85
+id3 Salakhova Sveta 84568459578 234-56-89
+id4 Sokolov Ivan 87945155425 487-57-10
+id5 Pozov Oleg 87945652212 456-02-31
+id6 Astakhov Artem 89273323330 20-89-01
+id7 Astakhov Daniel 89273541289 20-89-01
